@@ -6,6 +6,7 @@
         "admin": "管理者",
         "logout": "ログアウト",
         "goLogin": "ログインする",
-        "appOwner": "アプリマネージャー"
+        "appOwner": "アプリマネージャー",
+        "cancel": "취소(번역)"
     }
 }
