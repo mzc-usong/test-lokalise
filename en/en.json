@@ -1,0 +1,10 @@
+{
+    "label": {
+        "ok": "OK",
+        "profile": "Profile",
+        "launcher": "Launcher",
+        "admin": "administrator",
+        "logout": "logout",
+        "goLogin": "Go to sign in"
+    }
+}
