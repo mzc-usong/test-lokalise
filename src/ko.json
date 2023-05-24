@@ -8,5 +8,8 @@
         "goLogin": "로그인하러 가기",
         "appOwner": "앱 관리자",
         "cancel": "취소"
+    },
+    "description": {
+        "test": "test 값입니다."
     }
 }

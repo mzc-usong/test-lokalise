@@ -8,5 +8,8 @@
         "goLogin": "ログインする",
         "appOwner": "アプリマネージャー",
         "cancel": "キャンセル"
+    },
+    "description": {
+        "test": "test値です。"
     }
 }

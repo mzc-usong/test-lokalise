@@ -8,5 +8,8 @@
         "goLogin": "Go to sign in",
         "appOwner": "App Manager",
         "cancel": "cancellation"
+    },
+    "description": {
+        "test": "The test value."
     }
 }
