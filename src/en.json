@@ -6,6 +6,7 @@
         "admin": "administrator",
         "logout": "logout",
         "goLogin": "Go to sign in",
-        "appOwner": "App Manager"
+        "appOwner": "App Manager",
+        "cancel": "cancellation"
     }
 }
