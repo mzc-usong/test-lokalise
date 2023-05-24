@@ -10,6 +10,7 @@
         "cancel": "キャンセル"
     },
     "description": {
-        "test": "test値です。"
+        "test": "test値です。",
+        "test2": "名前: {{name}}, 年齢: {{age}}, 性別: 男性"
     }
 }

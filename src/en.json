@@ -10,6 +10,7 @@
         "cancel": "cancellation"
     },
     "description": {
-        "test": "The test value."
+        "test": "The test value.",
+        "test2": "Name: {{name}}, Age: {{age}}"
     }
 }
