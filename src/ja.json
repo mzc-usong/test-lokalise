@@ -1,12 +1,11 @@
 {
     "label": {
         "ok": "확인(일본어)",
-        "profile": "프로필(일본어)",
-        "launcher": "런처(일본어)",
-        "admin": "관리자(일본어)",
-        "logout": "로그아웃(일본어)",
-        "goLogin": "로그인하러 가기(일본어)",
-        "appOwner": "앱 관리자(번역)"
-    }  
+        "profile": "プロフィール",
+        "launcher": "ランチャー",
+        "admin": "管理者",
+        "logout": "ログアウト",
+        "goLogin": "ログインする",
+        "appOwner": "アプリマネージャー"
+    }
 }
-  

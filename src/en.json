@@ -5,7 +5,7 @@
         "launcher": "Launcher",
         "admin": "administrator",
         "logout": "logout",
-        "goLogin": "go login"
-    }  
+        "goLogin": "Go to sign in",
+        "appOwner": "App Manager"
+    }
 }
-  
