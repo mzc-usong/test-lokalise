@@ -5,7 +5,8 @@
         "launcher": "런처",
         "admin": "관리자",
         "logout": "로그아웃",
-        "goLogin": "로그인하러 가기"
+        "goLogin": "로그인하러 가기",
+        "appOwner": "앱 관리자"
     }  
 }
   
