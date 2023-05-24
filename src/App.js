@@ -1,13 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import text from './ko.json';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        {console.log(text, `---zzz`)}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          {text.goLogin}
         </p>
         <a
           className="App-link"
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          {text.ok}
         </a>
       </header>
     </div>
